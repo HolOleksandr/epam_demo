@@ -2,3 +2,6 @@ song
 song
 song
 new line from Git
+
+
+more lines for GIT GI$ git GUI

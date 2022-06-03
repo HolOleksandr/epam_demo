@@ -1,0 +1,23 @@
+[33mcommit db31e3908c1ef8b197bd761ec3f272ff694f2e33[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Holovachuk Oleksandr <golovachuk.alex@gmail.com>
+Date:   Fri Jun 3 19:58:15 2022 +0300
+
+    adde one line to the song
+
+[33mcommit 06712665185a73b7ee8a7fc0d8486b616e937cc2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Holovachuk Oleksandr <101631687+HolOleksandr@users.noreply.github.com>
+Date:   Fri Jun 3 19:36:20 2022 +0300
+
+    add new line
+
+[33mcommit a8e4e9f5a6743d18898ba6185861ee88d5f4d9d0[m
+Author: Holovachuk Oleksandr <golovachuk.alex@gmail.com>
+Date:   Fri Jun 3 18:31:19 2022 +0300
+
+    add first 3 lines in the song
+
+[33mcommit ec5efe243bc4809ba7a774eae7a3f254c35e8034[m
+Author: Holovachuk Oleksandr <101631687+HolOleksandr@users.noreply.github.com>
+Date:   Fri Jun 3 18:05:58 2022 +0300
+
+    Initial commit
