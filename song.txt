@@ -5,4 +5,8 @@ new line from Git
 
 Third coup!
 
+
 la-la-la-la master
+
+this is feature!
+
