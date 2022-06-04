@@ -4,4 +4,6 @@ song
 new line from Git
 
 
-more lines for GIT GI$ git GUI
+more lines for GIT 
+
+Let sing more!!!
